@@ -1,0 +1,10 @@
+{
+  "name": "Download MP3 from yt",
+  "description": "Download MP3 from yt",
+  "version": "0.1",
+  "permissions": ["contextMenus","tabs"],
+  "background": {
+    "scripts": ["main.js"]
+  },
+  "manifest_version": 2
+}
